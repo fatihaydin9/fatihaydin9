@@ -40,3 +40,4 @@ Software engineer with **5 years** of hands-on experience building products in d
 ## 📫 Reach Me
 
 - GitHub: [@fatihaydin9](https://github.com/fatihaydin9)
+- LinkedIn: [@fatihaydin9](https://www.linkedin.com/in/fatihaydin9/)
