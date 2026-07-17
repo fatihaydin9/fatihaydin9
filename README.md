@@ -2,7 +2,7 @@
 
 🎓 M.Sc. in Data and Information Engineering from Hacettepe University.
 
-💻 Software engineer with **5 years** of hands-on experience building products with **JavaScript (Angular, Node.js)** and **.NET**. I love **Python** and use it everywhere I can. Currently diving deep into **Rust** 🦀.
+Software engineer with **5 years** of hands-on experience building products in defence sector with **JavaScript (Angular, Node.js)** and **.NET**. I love **Python** and use it everywhere I can. Currently diving deep into **Rust** 🦀.
 
 ## 🔭 What I'm Into
 
