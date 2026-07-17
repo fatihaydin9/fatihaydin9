@@ -2,13 +2,13 @@
 
 🎓 M.Sc. in Data and Information Engineering from Hacettepe University.
 
-💻 Software engineer with **5 years** of hands-on experience building products with **JavaScript (Angular, Node.js)** and **.NET**. I love **Python** and use it everywhere I can. Currently diving deep into **Rust** 🦀 and **Go** 🐹.
+💻 Software engineer with **5 years** of hands-on experience building products with **JavaScript (Angular, Node.js)** and **.NET**. I love **Python** and use it everywhere I can. Currently diving deep into **Rust** 🦀.
 
 ## 🔭 What I'm Into
 
-- **AI Engineering** : loop engineering for agentic systems, context-sharing strategies, RAG pipelines, MCP (Model Context Protocol)
-- **Systems & Backend** : exploring Rust, Go and WASM for performance-critical services and tooling
-- **Cloud Native** : containerizing and orchestrating workloads with **Docker** and **Kubernetes**
+- **AI Engineering** - loop engineering for agentic systems, context-sharing strategies, RAG pipelines, MCP (Model Context Protocol)
+- **Systems & Backend** - exploring Rust, Go and WASM for performance-critical services and tooling
+- **Cloud Native** - containerizing and orchestrating workloads with **Docker** and **Kubernetes**
 
 ## 🛠️ Tech Stack
 
