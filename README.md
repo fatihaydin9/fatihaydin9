@@ -18,6 +18,9 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+**Future Development**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -32,12 +35,6 @@
 **AI / LLM Engineering**
 
 `RAG` · `MCP` · `Context Sharing` · `Loop Engineering` · `Agentic Systems`
-
-## 📊 Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatihaydin9&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fatihaydin9&layout=compact&theme=tokyonight&langs_count=8)
 
 ## 📫 Reach Me
 
