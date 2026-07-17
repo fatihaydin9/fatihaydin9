@@ -6,9 +6,9 @@
 
 ## 🔭 What I'm Into
 
-- **AI Engineering** — RAG pipelines, **MCP (Model Context Protocol)**, context-sharing strategies, and loop engineering for agentic systems
-- **Systems & Backend** — exploring Rust and Go for performance-critical services and tooling
-- **Cloud Native** — containerizing and orchestrating workloads with **Docker** and **Kubernetes**
+- **AI Engineering** : loop engineering for agentic systems, context-sharing strategies, RAG pipelines, MCP (Model Context Protocol)
+- **Systems & Backend** : exploring Rust, Go and WASM for performance-critical services and tooling
+- **Cloud Native** : containerizing and orchestrating workloads with **Docker** and **Kubernetes**
 
 ## 🛠️ Tech Stack
 
